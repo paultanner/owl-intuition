@@ -1,5 +1,5 @@
 /*
-owl_mon_cloud.js
+owl_mon_xively_cloud.js
 watch a port where a Network OWL is sending its data via UDP
 the OWL must be configured to send to the correct server and port of course
 see Settings/Set Up Data Push
