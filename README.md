@@ -5,7 +5,7 @@ OWL Intuition tools help you to use data from an OWL system in interesting ways.
 
 owl_mon_xively_cloud.js runs in the cloud under node.js
 
-It sends to lively so you need and account there.
+It sends to Xively so you need and account there.
 
 Your OWL must be configured to send to the correct server and port of course (see Settings/Set Up Data Push in your OWL console)
 
